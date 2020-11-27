@@ -32,5 +32,5 @@ C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\bin\Debug\netcoreapp3.1\
 C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\obj\Debug\netcoreapp3.1\bs_Server.csproj.CoreCompileInputs.cache
 C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\obj\Debug\netcoreapp3.1\bs_Server.csproj.CopyComplete
+C:\Users\H\source\repos\swe_project\bs_Server\bs_Server\obj\Debug\netcoreapp3.1\bs_Server.csproj.CoreCompileInputs.cache

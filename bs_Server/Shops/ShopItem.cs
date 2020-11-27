@@ -21,5 +21,11 @@ namespace bs_Server.Shops
             Category = category_;
 
         }
+
+        public int getShopId() => Shop;
+        public String getName() => Name;
+        public String getImage() => Image;
+        public int getPrice() => Price;
+        public int getCategory() => Category;
     }
 }

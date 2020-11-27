@@ -6,7 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="image\**" />
+    <EmbeddedResource Remove="image\**" />
+    <None Remove="image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.22" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
